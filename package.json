@@ -1,0 +1,26 @@
+{
+  "name": "loopback-client-api-gen",
+  "version": "0.0.1",
+  "description": "client side api class generator for loopback framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "loopback",
+    "client",
+    "es6"
+  ],
+  "author": "Farhad Mheryari <hi@mrfarhad.ir>",
+  "license": "ISC",
+  "bin": {
+    "lb-api-gen" : "./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "enquirer": "^2.0.7",
+    "js-beautify": "^1.8.8",
+    "uglify-es": "^3.3.9"
+  }
+}

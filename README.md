@@ -2,7 +2,7 @@
 This Generator uses swagger API to generate JavaScript es6 classes for using Loop Back API Server.
 ### How to Install
 
-    npm install -g lb-api-gen
+    npm install -g loopback-client-api-gen
     
 or if you are using yarn
 

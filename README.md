@@ -2,15 +2,15 @@
 This Generator uses swagger API to generate JavaScript es6 classes for using Loop Back API Server.
 ### How to Install
 
-    `npm install -g lb-api-gen`
+    npm install -g lb-api-gen
     
 or if you are using yarn
 
-    `yarn add lb-api-gen global`
+    yarn add lb-api-gen global
 ### How to Use It
 First run your Loop Back API Server.
 
-    `lb-api-gen`
+    lb-api-gen
 Answer few questions and enjoy It :)
 
 ![loopback front-end api generator usage](https://i.postimg.cc/rwq6qLyh/lb-api-gen-sample.jpg)

@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "https://github.com/mrfarhadir/loopback-client-api-gen",
   "keywords": [
     "api",
     "loopback",

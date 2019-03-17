@@ -26,9 +26,9 @@ If you need to modify request header, pass header as object to first method cons
  - [x] get
  - [x] post
  - [x] delete
- - [ ] put
- - [ ] patch
- - [ ] head
+ - [x] put
+ - [x] patch
+ - [x] head
 
 ### road map for other feathers:
 

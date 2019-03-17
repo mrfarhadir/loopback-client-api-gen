@@ -1,6 +1,6 @@
 {
   "name": "loopback-client-api-gen",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "description": "client side api class generator for loopback framework",
   "main": "index.js",
   "scripts": {
